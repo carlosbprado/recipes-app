@@ -1,7 +1,7 @@
 <strong> Sobre o Projeto </strong>
  - Este projeto foi desenvolvido no módulo de Front-end do curso de Desenvolvimento Web da [Trybe](https://ajuda.betrybe.com/hc/pt-br/articles/360056299454-O-que-%C3%A9-a-Trybe-).
  - O projeto foi realizado em grupo, onde tivemos que colocar em prática habilidades interpessoais também ensinadas ao longo do curso.
- - Você pode ver o projeto em funcionanto atráves deste [link](https://trybe-trivia-gamma.vercel.app/).
+ - Você pode ver o projeto em funcionanto atráves deste [link](https://recipes-app-orpin-nine.vercel.app/).
 
   <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
